@@ -5,7 +5,7 @@
     "name": "Lead to Task",
     "summary": "Create Tasks from Leads/Opportunities",
     "sequence": "19",
-    "category": "Project",
+    'category': 'Services/Project',
     "complexity": "easy",
     "author": "Odoo S.A., Odoo Community Association (OCA), Tecnativa",
     "website": "https://github.com/OCA/crm",
